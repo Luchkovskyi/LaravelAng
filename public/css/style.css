@@ -1,0 +1,52 @@
+#category{
+    width: 130px;
+
+}
+#biteditFind{
+    float:right;
+}
+.categoryInfor{
+    width: 150px;
+    height: 60px;
+    float: left;
+    margin-top: -25px;
+}
+.sizeCrud{
+    width: 40px;
+}
+.click{
+    width: 40px;
+}
+
+
+.inf{
+    width: 100px;
+    height: 60px;
+    float: left;
+    margin-left: 30px;
+}
+#file{
+    width: 250px;
+    margin-left: 20px;
+}
+#bitedit{
+
+    margin-left: 20px;
+    margin-top: 26px;
+    float: right;
+}
+#firsttab{
+    table-layout:fixed;
+}
+td{
+    word-wrap:break-word;
+}
+.editf{
+    width: 130px;
+}
+.inf2{
+    width: 130px;
+    height: 60px;
+    float: left;
+    margin-left: 30px;
+}
